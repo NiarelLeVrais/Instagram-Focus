@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram Focus",
+    "version": "1.0",
+    "icons": {
+        "128": "icon.png"
+    },
+    "description": "Cache le feed, reels, discover tab et suggestions Instagram",
+    "permissions": ["activeTab"],
+    "content_scripts": [{
+        "matches": ["https://www.instagram.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+    }]
+}
