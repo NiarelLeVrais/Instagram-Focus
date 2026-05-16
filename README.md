@@ -1,11 +1,9 @@
-﻿# Instagram Focus
-
-Extension Chrome qui masque le feed, les reels, les suggestions et la page découverte d'Instagram.
+# Instagram Focus
+Chrome extension that hides the feed, reels, suggestions, and the explore page on Instagram.
 
 ## Installation
-
-1. **Télécharger** et dézipper le dossier de l'extension
-2. Ouvrir Chrome et aller sur `chrome://extensions/`
-3. Activer le **Mode développeur** (toggle en haut à droite)
-4. Cliquer sur **"Charger l'extension non empaquetée"**
-5. Sélectionner le dossier dézippé
+1. **Download** and unzip the extension folder
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable **Developer mode** (toggle in the top right)
+4. Click **"Load unpacked"**
+5. Select the unzipped folder
